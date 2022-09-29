@@ -1,0 +1,5 @@
+package T;
+message Test
+{
+    optional int32 id = 1;
+}
